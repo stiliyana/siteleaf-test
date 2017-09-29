@@ -1,6 +1,7 @@
 ---
 title: siteleaf-test
 timezone: UTC
+base_url: "https://siteleaf.netlify.com"
 collections:
   posts:
     title: Posts
