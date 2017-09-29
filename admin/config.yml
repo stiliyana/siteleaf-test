@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: stiliyana/content-pages-test # Path to your Github repository
+  repo: stiliyana/siteleaf-test # Path to your Github repository
   branch: master # Branch to update
 media_folder: "images"
 public_folder: "/images"
