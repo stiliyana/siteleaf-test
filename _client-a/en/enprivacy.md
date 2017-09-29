@@ -1,7 +1,8 @@
 ---
-title: en/privacy
+title: privacy
 ---
 
 # Privacy
 
 bla bla bla
+
