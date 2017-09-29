@@ -1,7 +1,6 @@
 ---
 title: siteleaf-test
 timezone: UTC
-base_url: "https://siteleaf.netlify.com"
 collections:
   posts:
     title: Posts
@@ -24,4 +23,5 @@ defaults:
     type: pages
   values:
     layout: page
+base_url: https://siteleaf.netlify.com
 permalink: pretty
