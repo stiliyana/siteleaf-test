@@ -23,5 +23,4 @@ defaults:
     type: pages
   values:
     layout: page
-base_url: https://siteleaf.netlify.com
 permalink: pretty
