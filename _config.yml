@@ -11,6 +11,9 @@ collections:
   client-a:
     title: client-a
     output: true
+  client-b:
+    title: client-b
+    output: true
 defaults:
 - scope:
     path: ''
